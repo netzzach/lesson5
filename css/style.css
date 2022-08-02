@@ -1,0 +1,254 @@
+.logo {
+	width:38px ;
+	height:15px ;
+	font-size: 13px;
+	color:#FA6980 ;
+	margin: 18px 0 17px 20px;
+	font-family: 'Finlandica', sans-serif;
+}
+.top {
+	width: 1440px;
+	height: 50px;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: 5;
+	background: #F6F8F9;
+}
+.navigation {
+	display: inline-block;
+}
+.nav-item {
+	display: inline-block;
+}
+.one {
+	width: 33px;
+	height: 12px;
+	font-size: 11px;
+	color: #080808;
+	margin: 20px 27px 18px 92px;
+}
+.two {
+	width: 64px;
+	height: 12px;
+	font-size: 11px;
+	color:#99A6B4;
+	margin-right: 14px;
+}
+.three {
+	width: 46px;
+	height: 12px;
+	font-size: 11px;
+	color:#99A6B4;
+	margin-right: 30px;
+}.four {
+	width: 53px;
+	height: 12px;
+	font-size: 11px;
+	color: #99A6B4;
+}
+.women {
+    display: inline-block;
+	height: 30px;
+	vertical-align: middle;
+	margin-left: 40px;
+}
+.maindiv1 {
+	width: 1160px;
+	height: 410px;
+	margin: 0 auto;
+
+}
+.body {
+	padding-top: 50px;
+	background: #F6F8F9;
+}
+.h1txt {
+	padding-top: 25px;
+	width: 1025px;
+	height: 20px;
+	font-size: 24px;
+	color: #202124;
+	font-family: 'Finlandica', sans-serif;
+}
+.divbox {
+	width: 360px;
+	height: 350px;
+	background: #FFFFFF;
+	margin-top: 40px;
+	position: relative;
+	display: inline-block;
+}
+.divtext1 {
+	width: 280px;
+	height: 38px;
+	font-size: 13px;
+	color: #A6ADB4;
+	margin: 66px auto 10px;
+	font-family: 'Uchen', serif;
+}
+.insidetext {
+	position: absolute;
+	top: 28px;
+	left: 40px;
+	width: 280px;
+	height: 16px;
+	font-size: 16px;
+	color: #FFFFFF;
+	font-family: 'Finlandica', sans-serif;
+}
+.time {
+	width: 16px;
+	margin-left: 40px;
+	margin-bottom: 43px;
+	display: inline-block;
+    vertical-align: top;
+}
+.sptext {
+	margin-left: 10px;
+	margin-top: 3px;
+	display: inline-block;
+	width:43px ;
+	height: 15px;
+	font-size: 13px;
+	color:#A6ADB4 ;
+	vertical-align: top;
+	font-family: 'Finlandica', sans-serif;
+}
+.middlediv {
+	display: inline-block;
+	margin-left: 40px;
+	margin-top: 40px;
+	vertical-align: top;
+	position: relative;
+	width: 360px;
+	height: 350px;
+	background: #FFFFFF;
+}
+.rightdiv {
+	display: inline-block;
+	margin-left: 40px;
+	margin-top: 40px;
+	vertical-align: top;
+	position: relative;
+	width: 360px;
+	height: 350px;
+	background: #FFFFFF;
+}
+.maindiv2 {
+	width: 1160px;
+	height: 962px;
+	margin: 0 auto;
+	padding-top: 50px;
+}
+.h2class {
+	width: 770px;
+	height: 20px;
+	font-size: 24px;
+	color: #202124;
+	font-family: 'Finlandica', sans-serif;
+}
+.highdiv {
+	width: 760px;
+	height: 900px;
+	margin-top: 40px;
+	display: inline-block;
+}
+.forest {
+	margin-top: 40px;
+	padding-bottom: 37px;
+}
+.smalldiv {
+	width: 360px;
+	height: 896px;
+	display: inline-block;
+	margin-left: 40px;
+	vertical-align: top;
+	margin-top: 40px;
+}
+.parrot {
+	margin-top: 102px;
+}
+.road {
+	margin-top: 102px;
+}
+.forimage {
+	position: relative;
+/*	display: inline-block;*/
+}
+.centertext {
+	position: absolute;
+	top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #FFFFFF;
+    height: 16px;
+    font-size: 16px;
+    font-family: 'Finlandica', sans-serif;
+}
+.footerdiv {
+    padding: 56px 0 60px 142px;
+    font-family: 'Finlandica', sans-serif;
+}
+.footerclass {
+	width: 1440px;
+	height: 200px;
+    background: #A6ADB4;
+	width: 100%;
+    margin-top: 80px;
+}
+.nav-item2 {
+	vertical-align: top;
+}
+.navtwo {
+	vertical-align: top;
+	margin-left: 89px;
+	display: inline-block;
+
+}
+.nav1-2 {
+	margin-top: 8px;
+	font-size: 13px;
+	color: #CBD0D3;
+}
+.nav1-1 {
+	font-size: 13px;
+	color: #CBD0D3;
+}
+.logo2 {
+	color: #FFFFFF;
+}
+.navtwo1 {
+	display: inline-block;
+	margin-left: 96.7px;
+	vertical-align: top;
+}
+.navtwo2 {
+	margin-left: 110px;
+	display: inline-block;
+	vertical-align: top;
+}
+.footertext {
+	display: inline-block;
+	vertical-align: top;
+	padding-left: 110px;
+	height: 9px;
+	color: #CBD0D3;
+	font-size: 11px;
+}
+.insta {
+	margin-left: 165px;
+}
+.twitter {
+	margin-left: 32px;
+}
+.fb {
+	margin-left: 32px;
+}
+.web {
+	margin-left: 32px;
+}
+.ulfont {
+	font-family: 'Finlandica', sans-serif;
+}
